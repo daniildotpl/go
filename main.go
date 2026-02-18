@@ -17,7 +17,7 @@ const (
 	diskUsagePercent    = 90.0
 	networkUsagePercent = 90.0
 	// Количество ошибок для вывода сообщения о недоступности
-	errorThreshold = 3
+	errorThreshold = 4
 )
 
 type ServerStats struct {
